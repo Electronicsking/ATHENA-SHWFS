@@ -1,7 +1,8 @@
 **\# ATHENA**  
 **\#\#\# Adaptive Turbulence correction and Hartmann wavefront rEconstruction with Neural Analysis**
 
-\> \*\*BAH 2026 — Problem 09\*\* | Shack-Hartmann Wavefront Sensor Pipeline | College of Engineering Trivandrum (CET)
+\> \*\*BAH 2026 — Problem 09\*\* | Shack-Hartmann Wavefront Sensor Pipeline | TKM COLLEGE OF ENGINEERING
+
 
 \---
 
@@ -118,4 +119,4 @@ python demo\_live.py
 \*\*ATHENA\*\* was built for the \*\*Bharatiya Antariksh Hackathon 2026 (BAH 2026)\*\*, Problem Statement 09 —  
 \*Developing and optimizing algorithms for Wavefront reconstruction and turbulence characterization using Shack-Hartmann Wavefront Sensor (SH-WFS) time-series data.\*
 
-\*\*Team:\*\* College of Engineering Trivandrum (CET), Kerala  
+\*\*Team:\*\* TKM COLLEGE OF ENGINEERING, Kerala  
